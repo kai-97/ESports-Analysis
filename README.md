@@ -35,4 +35,4 @@
 Tickets and merchandise definitely have scope of improving.  
 Viewership to cross 500 million[*](https://www.insiderintelligence.com/insights/esports-ecosystem-market-report/#:~:text=In%20the%20year%202022%2C%20there,competitors%20with%20data%2Ddriven%20research.)
 
-## [:wolf: NCState Details :arrow_right:](NCstate.md)
+## [:wolf: NCState Details :arrow_right:](https://github.com/kai-97/ESports-Analysis/blob/main/NCState.md)

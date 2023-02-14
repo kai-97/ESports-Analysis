@@ -26,3 +26,5 @@ Most of the students in K12 are taught concepts online, video learning or throug
 |CSC 482|Advanced Game Development Projects|3D, game design more detailed and serious|
 |CSC 484|Building Game AI|Designing computer Games, Economics of Game Design covered|
 |CSC 492|Senior Design Project|Development of a Software|
+
+## [Home](https://github.com/kai-97/ESports-Analysis/)
